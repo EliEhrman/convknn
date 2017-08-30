@@ -1,3 +1,11 @@
+"""
+Main module for rewrite of code
+
+All files with cknn_ prefix are part of this rewrite
+
+The basic functions are distributed across a number of files in functions instead of as a stream.
+
+"""
 from __future__ import print_function
 import csv
 import os
